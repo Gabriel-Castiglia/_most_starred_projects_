@@ -25,13 +25,6 @@ To run this program, you need to have Python installed on your system along with
 To install these dependencies, run the following command in your terminal:
 `pip install -r requirements.txt`
 
-Ensure that `requirements.txt` includes the following lines:
-
-requests
-plotly
-pandas
-
-
 ## Usage
 
 To execute the program, simply run the Python script from your terminal:
